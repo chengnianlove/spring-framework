@@ -61,5 +61,3 @@ settings.gradle.projectsLoaded {
 		}
 	}
 }
-include 'chengtest'
-
